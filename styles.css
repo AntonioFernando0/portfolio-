@@ -214,7 +214,7 @@ h1 {
 		flex-direction: column;
 		justify-content: center;
 		span {
-			@media (max-width: 768px) {
+			@media (max-width: 750px) {
 				display: none;
 			}
 		}
