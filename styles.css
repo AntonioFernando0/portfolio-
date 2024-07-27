@@ -104,7 +104,7 @@ header {
 			display: none;
 			color: var(--base-800);
 			padding: 10px;
-			@media (max-width: 768px) {
+			@media (max-width: 608px) {
 				display: inline-block;
 				position: absolute;
 				top: 20px;
